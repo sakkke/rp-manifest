@@ -1,0 +1,159 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sakkke/rp/main/docs/schemas/rp.json",
+  "remotes": [
+    {
+      "name": "github",
+      "fetch": "https://github.com/"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "catppuccin/palette",
+      "remote": "github"
+    },
+    {
+      "name": "catppuccin/vivaldi",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix-baseline",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix-docs",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix-manifest",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix-releng",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/adaptix-website",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/altmoodle",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/amv-nu",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/archlinux-makepkg",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/archlinux-repo-add",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/astronvim_config",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/chatgpt-useful-prompts",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/dotfiles",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/fzf-music-nu",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/github-metrics-scripts",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/gobou",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/gopomobeat",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/gotmpl",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/gotomato",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/handlize",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/konosuke-blog",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/konosuke-website",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/ollama-arch",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/pomobeat",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/queue",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/repolog",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rp",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rp-manifest",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rp-nu",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rust_hello_world",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rustreleaser",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/rustreleaser-action",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/sakkke",
+      "remote": "github"
+    },
+    {
+      "name": "sakkke/summer-portfolio-2023",
+      "remote": "github"
+    },
+    {
+      "name": "jmorganca/ollama",
+      "remote": "github"
+    }
+  ]
+}
