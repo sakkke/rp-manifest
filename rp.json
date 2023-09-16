@@ -8,6 +8,10 @@
   ],
   "repositories": [
     {
+      "name": "Firstbober/krita-rpc",
+      "remote": "github"
+    },
+    {
       "name": "catppuccin/palette",
       "remote": "github"
     },
